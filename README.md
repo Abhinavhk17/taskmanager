@@ -970,21 +970,3 @@ src/main/java/com/api/taskmanager/
 └── service/             # Business logic services
 ```
 
-## Future Enhancements
-
-- Email notifications
-- Task scheduling and reminders
-- Real-time updates using WebSockets
-- Advanced analytics and reporting
-- Role-based access control (Admin, Manager, User)
-- Task dependencies and subtasks
-- Time tracking
-
-## License
-
-This project is created for educational purposes.
-
-## Support
-
-For issues and questions, please create an issue in the repository.
-
