@@ -2,7 +2,7 @@
 
 A comprehensive RESTful API for task and project management built with Spring Boot, MongoDB, and JWT authentication.
 
-## ✨ Features - ALL Requirements Implemented ✅
+## ✨ Features 
 
 ### 1. User Management
 - ✅ User registration with validation
